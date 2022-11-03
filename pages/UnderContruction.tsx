@@ -42,8 +42,8 @@ const UnderConstruction: NextPage = () => {
 				"font-[Ubuntu]"
 			].join(" ")}>
 				<div className="flex flex-col items-center justify-center h-full">
-					<Image src="/Pacs.png" alt="logo" width={100} height={100} />
-					<h1 className="mb-5 text-4xl">&lt; building /&gt;</h1>
+					<Image src="/Pacs.png" alt="logo" width={220} height={220} />
+					<h1 className="mt-[-50px] mb-5 text-4xl">&lt; UNDER CONSTRUCTION /&gt;</h1>
 					<p><a href="tel:+19177500292">(917) 750-0292</a></p>
 					<p><a href="mailto:info@pacsllc.net">info@pacsllc.net</a></p>
 				</div>
